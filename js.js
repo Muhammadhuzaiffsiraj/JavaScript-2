@@ -1,14 +1,13 @@
 let todos = [];
 
-let a =prompt("What do you wanna do today")
-todos.push(a)
+let pro1 =prompt("What do you wanna do today")
+todos.push(pro1)
 
-let b =prompt("What do you wanna do today")
-todos.push(b)
-let c =prompt("What do you wanna do today")
-todos.push(c)
-let d =prompt("What do you wanna do today")
-todos.push(d)
+let pro2 =prompt("What do you wanna do today")
+todos.push(pro2)
+let pro3 =prompt("What do you wanna do today")
+todos.push(pro3)
+let pro4 =prompt("What do you wanna do today")
+todos.push(pro4)
 
-console.log("Your-todo-list");
 console.log(todos);
